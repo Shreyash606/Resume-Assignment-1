@@ -1,0 +1,22 @@
+#Name{
+    text-align: center;
+}
+
+.Head{
+    text-align: center;
+    line-height: 3px;
+}
+
+.year{
+    display: inline;
+    float: right;
+
+}
+
+div{
+    line-height: 3px;
+}
+
+body{
+    font-family: sans-serif;
+}
