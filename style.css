@@ -1,5 +1,7 @@
 #Name{
     text-align: center;
+    padding: 3px 0px 0px 6px;
+    font-size: 250%;
 }
 
 .Head{
@@ -13,10 +15,35 @@
 
 }
 
-div{
-    line-height: 3px;
-}
+
 
 body{
     font-family: 'PT Serif', serif;
+}
+
+.start{
+    
+    
+    background-color: #eee;
+}
+
+.Linkedin{
+    text-decoration: none;
+    
+}
+
+h3{
+    font-weight: 1000;
+}
+
+.Container{
+    background-color:darkgrey;
+    padding: 0px;
+    margin-top: 0px;
+}
+
+hr.rounded{
+    border-top: 4px solid black;
+    border-radius: 6px;
+    margin: 0px 4px;
 }
